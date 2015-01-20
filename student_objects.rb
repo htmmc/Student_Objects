@@ -57,7 +57,6 @@ end
 
 puts linear_search(students, "Alex")
 puts linear_search(students, "Emlily")
-puts linear_search(students, "Jose")
 puts linear_search(students, "NOT A STUDENT") 
 
 def binary_search(array, ssn)
